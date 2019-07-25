@@ -1,0 +1,252 @@
+
+---Downloaded files---
+The import files for: JobScout Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = D:\wamp64\www\wordpress/wp-content/uploads/rara-demo-pack/jobscout-demo-content/content/jobscout.xml
+Widget file = D:\wamp64\www\wordpress/wp-content/uploads/rara-demo-pack/jobscout-demo-content/content/jobscout.wie
+Customizer file = D:\wamp64\www\wordpress/wp-content/uploads/rara-demo-pack/jobscout-demo-content/content/jobscout.dat
+
+------
+Completed AJAX call number: 1
+[WARNING] Failed to import job_listing_type Accounting / Finance
+[WARNING] Failed to import job_listing_type Construction Facilities
+[WARNING] Failed to import job_listing_type Education Training
+[WARNING] Failed to import job_listing_type Food &amp; Restaurant
+[WARNING] Failed to import rara_portfolio_categories GRAPHIC
+[WARNING] Failed to import job_listing_type Health Care
+[WARNING] Failed to import job_listing_type Human Resource
+[WARNING] Failed to import rara_portfolio_categories ILLUSTRATION
+[WARNING] Failed to import job_listing_type IT Services
+[WARNING] Failed to import rara_portfolio_categories MOCKUP
+[WARNING] Failed to import rara_portfolio_categories PHOTOGRAPHY
+[WARNING] Failed to import rara_portfolio_categories UI/UX
+[WARNING] Failed to import rara_portfolio_categories WEB
+[WARNING] Failed to import job_listing_type Web &amp; Marketing
+
+
+------
+Completed AJAX call number: 2
+[WARNING] Failed to import job_listing_type Accounting / Finance
+[WARNING] Failed to import job_listing_type Construction Facilities
+[WARNING] Failed to import job_listing_type Education Training
+[WARNING] Failed to import job_listing_type Food &amp; Restaurant
+[WARNING] Failed to import rara_portfolio_categories GRAPHIC
+[WARNING] Failed to import job_listing_type Health Care
+[WARNING] Failed to import job_listing_type Human Resource
+[WARNING] Failed to import rara_portfolio_categories ILLUSTRATION
+[WARNING] Failed to import job_listing_type IT Services
+[WARNING] Failed to import rara_portfolio_categories MOCKUP
+[WARNING] Failed to import rara_portfolio_categories PHOTOGRAPHY
+[WARNING] Failed to import rara_portfolio_categories UI/UX
+[WARNING] Failed to import rara_portfolio_categories WEB
+[WARNING] Failed to import job_listing_type Web &amp; Marketing
+
+
+------
+Completed AJAX call number: 3
+[WARNING] Failed to import job_listing_type Accounting / Finance
+[WARNING] Failed to import job_listing_type Construction Facilities
+[WARNING] Failed to import job_listing_type Education Training
+[WARNING] Failed to import job_listing_type Food &amp; Restaurant
+[WARNING] Failed to import rara_portfolio_categories GRAPHIC
+[WARNING] Failed to import job_listing_type Health Care
+[WARNING] Failed to import job_listing_type Human Resource
+[WARNING] Failed to import rara_portfolio_categories ILLUSTRATION
+[WARNING] Failed to import job_listing_type IT Services
+[WARNING] Failed to import rara_portfolio_categories MOCKUP
+[WARNING] Failed to import rara_portfolio_categories PHOTOGRAPHY
+[WARNING] Failed to import rara_portfolio_categories UI/UX
+[WARNING] Failed to import rara_portfolio_categories WEB
+[WARNING] Failed to import job_listing_type Web &amp; Marketing
+
+
+------
+Completed AJAX call number: 4
+[WARNING] Failed to import job_listing_type Accounting / Finance
+[WARNING] Failed to import job_listing_type Construction Facilities
+[WARNING] Failed to import job_listing_type Education Training
+[WARNING] Failed to import job_listing_type Food &amp; Restaurant
+[WARNING] Failed to import rara_portfolio_categories GRAPHIC
+[WARNING] Failed to import job_listing_type Health Care
+[WARNING] Failed to import job_listing_type Human Resource
+[WARNING] Failed to import rara_portfolio_categories ILLUSTRATION
+[WARNING] Failed to import job_listing_type IT Services
+[WARNING] Failed to import rara_portfolio_categories MOCKUP
+[WARNING] Failed to import rara_portfolio_categories PHOTOGRAPHY
+[WARNING] Failed to import rara_portfolio_categories UI/UX
+[WARNING] Failed to import rara_portfolio_categories WEB
+[WARNING] Failed to import job_listing_type Web &amp; Marketing
+
+
+------
+Completed AJAX call number: 5
+[WARNING] Failed to import job_listing_type Accounting / Finance
+[WARNING] Failed to import job_listing_type Construction Facilities
+[WARNING] Failed to import job_listing_type Education Training
+[WARNING] Failed to import job_listing_type Food &amp; Restaurant
+[WARNING] Failed to import rara_portfolio_categories GRAPHIC
+[WARNING] Failed to import job_listing_type Health Care
+[WARNING] Failed to import job_listing_type Human Resource
+[WARNING] Failed to import rara_portfolio_categories ILLUSTRATION
+[WARNING] Failed to import job_listing_type IT Services
+[WARNING] Failed to import rara_portfolio_categories MOCKUP
+[WARNING] Failed to import rara_portfolio_categories PHOTOGRAPHY
+[WARNING] Failed to import rara_portfolio_categories UI/UX
+[WARNING] Failed to import rara_portfolio_categories WEB
+[WARNING] Failed to import job_listing_type Web &amp; Marketing
+[WARNING] Failed to import "
+				Web Designer/Developer		": Invalid post type job_listing
+
+
+------
+Completed AJAX call number: 6
+[WARNING] Failed to import job_listing_type Accounting / Finance
+[WARNING] Failed to import job_listing_type Construction Facilities
+[WARNING] Failed to import job_listing_type Education Training
+[WARNING] Failed to import job_listing_type Food &amp; Restaurant
+[WARNING] Failed to import rara_portfolio_categories GRAPHIC
+[WARNING] Failed to import job_listing_type Health Care
+[WARNING] Failed to import job_listing_type Human Resource
+[WARNING] Failed to import rara_portfolio_categories ILLUSTRATION
+[WARNING] Failed to import job_listing_type IT Services
+[WARNING] Failed to import rara_portfolio_categories MOCKUP
+[WARNING] Failed to import rara_portfolio_categories PHOTOGRAPHY
+[WARNING] Failed to import rara_portfolio_categories UI/UX
+[WARNING] Failed to import rara_portfolio_categories WEB
+[WARNING] Failed to import job_listing_type Web &amp; Marketing
+[WARNING] Failed to import "
+				Web Designer/Developer		": Invalid post type job_listing
+
+
+---Importing content---
+[WARNING] Failed to import job_listing_type Accounting / Finance
+[WARNING] Failed to import job_listing_type Construction Facilities
+[WARNING] Failed to import job_listing_type Education Training
+[WARNING] Failed to import job_listing_type Food &amp; Restaurant
+[WARNING] Failed to import rara_portfolio_categories GRAPHIC
+[WARNING] Failed to import job_listing_type Health Care
+[WARNING] Failed to import job_listing_type Human Resource
+[WARNING] Failed to import rara_portfolio_categories ILLUSTRATION
+[WARNING] Failed to import job_listing_type IT Services
+[WARNING] Failed to import rara_portfolio_categories MOCKUP
+[WARNING] Failed to import rara_portfolio_categories PHOTOGRAPHY
+[WARNING] Failed to import rara_portfolio_categories UI/UX
+[WARNING] Failed to import rara_portfolio_categories WEB
+[WARNING] Failed to import job_listing_type Web &amp; Marketing
+[WARNING] Failed to import "
+				Web Designer/Developer		": Invalid post type job_listing
+[WARNING] Failed to import "
+				Application Developer for Android		": Invalid post type job_listing
+[WARNING] Failed to import "
+				C Developer (Senior) C.Net		": Invalid post type job_listing
+[WARNING] Failed to import "
+				Car Financed Required For Bank		": Invalid post type job_listing
+[WARNING] Failed to import "
+				Physician Assistant at ABC Institute		": Invalid post type job_listing
+[WARNING] Failed to import "
+				Post of the CEO Doctorate Researcher Office		": Invalid post type job_listing
+[WARNING] Failed to import "
+				Clerk I - Base Post Office		": Invalid post type job_listing
+[WARNING] Failed to import "
+				Us Post Office Job Openings		": Invalid post type job_listing
+[WARNING] Failed to import "
+				House Manager And Personal Assistant		": Invalid post type job_listing
+[WARNING] Failed to import "
+				Administrative Assistant		": Invalid post type job_listing
+[WARNING] Failed to import "
+				Subscribe now		": Invalid post type subscribe-form
+[WARNING] Failed to import "
+				Contact		": Invalid post type wpcf7_contact_form
+[WARNING] Failed to import "
+				Van MockUp PSD 6 Angles		": Invalid post type rara-portfolio
+[WARNING] Failed to import "
+				Water Bottle MockUp		": Invalid post type rara-portfolio
+[WARNING] Failed to import "
+				Epsilon Powerpoint Template Free		": Invalid post type rara-portfolio
+[WARNING] Failed to import "
+				Flatlay Business Photos		": Invalid post type rara-portfolio
+[WARNING] Failed to import "
+				Phoenix Startup UI Kit Free Sample		": Invalid post type rara-portfolio
+[WARNING] Failed to import "
+				Modern Office Photos		": Invalid post type rara-portfolio
+[WARNING] Failed to import "
+				Fashion eCommerce Templates		": Invalid post type rara-portfolio
+[WARNING] Failed to import "
+				Dlex ECommerce UI Kit		": Invalid post type rara-portfolio
+[WARNING] Failed to import "
+				Personal Free HTML Template		": Invalid post type rara-portfolio
+[WARNING] Failed to import "
+				Job Application Form		": Invalid post type wpcf7_contact_form
+[WARNING] Could not find the post parent for "album-1" (post #882)
+[WARNING] Could not find the post parent for "beanie-2" (post #883)
+[WARNING] Could not find the post parent for "beanie-with-logo-1" (post #884)
+[WARNING] Could not find the post parent for "belt-2" (post #885)
+[WARNING] Could not find the post parent for "cap-2-600&#215;600" (post #886)
+[WARNING] Could not find the post parent for "hoodie-with-logo-2" (post #887)
+[WARNING] Could not find the post parent for "hoodie-2-600&#215;600" (post #888)
+[WARNING] Could not find the post parent for "hoodie-with-zipper-2-600&#215;600" (post #889)
+[WARNING] Could not find the post parent for "logo-1" (post #890)
+[WARNING] Could not find the post parent for "polo-2" (post #891)
+[WARNING] Could not find the post parent for "single-1" (post #892)
+[WARNING] Could not find the post parent for "long-sleeve-tee-2" (post #894)
+[WARNING] Could not find the post parent for "sunglasses-2" (post #895)
+[WARNING] Could not find the post parent for "tshirt-2" (post #896)
+[WARNING] Could not find the post parent for "t-shirt-with-logo-1" (post #897)
+[WARNING] Could not find the post parent for "pennant-1-300&#215;300" (post #898)
+[WARNING] Could not find the post parent for "vneck-tee-2" (post #900)
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+raratheme_featured_widget - No Title - Site does not support widget
+Categories - Categories - Imported
+raratheme_popular_post - Popular Posts - Site does not support widget
+blossomthemes_email_newsletter_widget - Newsletter - Site does not support widget
+rtc_pro_twitter_feeds_widget - Follow Us On - Site does not support widget
+rtc_social_links - Subscribe and Follow - Site does not support widget
+Custom HTML - No Title - Imported
+rtc_contact_social_links - Get in Touch - Site does not support widget
+
+Call To Action Section : 
+
+raratheme_companion_cta_widget - Build Your Online Team - Site does not support widget
+
+Testimonial Section : 
+
+rrtc_testimonial_widget - No Title - Site does not support widget
+rrtc_testimonial_widget - No Title - Site does not support widget
+rrtc_testimonial_widget - No Title - Site does not support widget
+rrtc_testimonial_widget - No Title - Site does not support widget
+
+Client Section : 
+
+raratheme_client_logo_widget - No Title - Site does not support widget
+
+Footer One : 
+
+Text - No Title - Imported
+
+Footer Two : 
+
+raratheme_popular_post - Popular Posts - Site does not support widget
+
+Footer Three : 
+
+Categories - Categories - Imported
+
+Footer Four : 
+
+blossomthemes_email_newsletter_widget - Newsletter - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+

@@ -1,0 +1,362 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Herbal Lite\n"
+"POT-Creation-Date: 2018-03-28 17:44+0530\n"
+"PO-Revision-Date: 2018-03-28 17:44+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn.....Dont worry... it happens to the "
+"best of us."
+msgstr ""
+
+#: archive.php:32 front-page.php:156 front-page.php:209
+msgid "Back"
+msgstr ""
+
+#: archive.php:33 front-page.php:157 front-page.php:210
+msgid "Next"
+msgstr ""
+
+#: archive.php:34
+msgid "Posts navigation"
+msgstr ""
+
+#: category.php:19
+msgid "Category: "
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:37
+#, php-format
+msgctxt "Comments Title"
+msgid "%1$s Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:52 comments.php:72
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53 comments.php:73
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:54 comments.php:74
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr ""
+
+#: content-single.php:25 content.php:32 front-page.php:190 image.php:59
+#: page.php:26
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:29 content.php:36 front-page.php:194 page.php:30
+msgid "Page"
+msgstr ""
+
+#: content.php:19
+msgid ", "
+msgstr ""
+
+#: content.php:30
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:39
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:54
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:55
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:64
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:65 functions.php:75 functions.php:85
+msgid "Appears on page footer"
+msgstr ""
+
+#: functions.php:74
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:84
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:104
+msgctxt "robotocondensed:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:111 functions.php:114
+msgctxt "Scada:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:112
+msgctxt "Roboto Slab:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:113
+msgctxt "Merriweather:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:115
+msgctxt "Lato:on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:237
+msgid "Read More"
+msgstr ""
+
+#: header.php:29
+msgid "Menu"
+msgstr ""
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: image.php:33 image.php:65 inc/template-tags.php:68
+msgid "Edit"
+msgstr ""
+
+#: inc/about-themes.php:5 inc/about-themes.php:22
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about-themes.php:25
+msgid "Live Demo"
+msgstr ""
+
+#: inc/about-themes.php:26
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/about-themes.php:27
+msgid "Documentation"
+msgstr ""
+
+#: inc/about-themes.php:30
+msgid ""
+"Herbal Lite is a herbal products and store WordPress theme which can be used "
+"for herbal medicines, pharmacy, naturopathy, natural and organic medicinal "
+"herbs, herbal tea, organic products and food, agricultural products, agri "
+"based foods, food packaging industry, yoga, spa, nature conservation, "
+"environmental naturo eco social group websites and other types of nature "
+"related websites. Is multipurpose and compatible with page builders like "
+"Divi, Visual Composer, Elementor, Live composer and beaver builder etc. It "
+"is also multilingual compatible and translation ready."
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "More color options in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Select page for slide one:"
+msgstr ""
+
+#: inc/customizer.php:75
+msgid "Select page for slide two:"
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Select page for slide three:"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Add Slide Button Title Here"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Check To Hide Slider"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Home Page Section 1 Content Area"
+msgstr ""
+
+#: inc/customizer.php:141 inc/customizer.php:205
+msgid "Check To Hide Section"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "Home Page Section 1 Four Boxes"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:37
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:38
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgid "Older posts"
+msgstr ""
+
+#: inc/template-tags.php:47
+msgid "Newer posts"
+msgstr ""
+
+#: inc/template-tags.php:68
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:91
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:182
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Category"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr ""
+
+#: upgrade-pro/example-1/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: upgrade-pro/example-1/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Herbal Lite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.pinnaclethemes.net/product/free-herbal-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Herbal Lite is a herbal products and store WordPress theme which can be used "
+"for herbal medicines, pharmacy, naturopathy, natural and organic medicinal "
+"herbs, herbal tea, organic products and food, agricultural products, agri "
+"based foods, food packaging industry, yoga, spa, nature conservation, "
+"environmental naturo eco social group websites and other types of nature "
+"related websites. Is multipurpose and compatible with page builders like "
+"Divi, Visual Composer, Elementor, Live composer and beaver builder etc. It "
+"is also multilingual compatible and translation ready. Demo: https://www."
+"pinnaclethemes.net/themedemos/herbal/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pinnacle Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.pinnaclethemes.net"
+msgstr ""
